@@ -1,0 +1,3 @@
+class Revista extends Referencia {
+    
+}
