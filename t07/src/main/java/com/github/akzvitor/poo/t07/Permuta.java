@@ -1,3 +1,5 @@
+package com.github.akzvitor.poo.t07;
+
 public class Permuta {
     public static void Permutacao(String p, String S) {
         if(S.lenght() == 1)

@@ -1,3 +1,5 @@
+package com.github.akzvitor.poo.t07;
+
 public class Uniao {
     private ArrayList filhos;
     private Pessoa parceiros[2];

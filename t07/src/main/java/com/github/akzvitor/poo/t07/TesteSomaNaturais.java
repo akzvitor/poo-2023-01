@@ -1,3 +1,5 @@
+package com.github.akzvitor.poo.t07;
+
 public class TesteSomaNaturais {
     public static long SomaNaturais(int n) {
         c = 1;

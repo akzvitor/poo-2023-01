@@ -1,3 +1,5 @@
+package com.github.akzvitor.poo.t07;
+
 import java.util.TreeSet;
 
 public class Festa {
