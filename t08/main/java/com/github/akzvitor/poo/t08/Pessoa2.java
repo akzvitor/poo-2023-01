@@ -1,6 +1,6 @@
 package com.github.akzvitor.poo.t08;
 
-public class Pessoa {
+public class Pessoa2 {
     private String nome;
-    private Emprego e;
+    public Emprego e;
 }
