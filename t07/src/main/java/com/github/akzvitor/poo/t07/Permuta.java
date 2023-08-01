@@ -2,9 +2,9 @@ package com.github.akzvitor.poo.t07;
 
 public class Permuta {
     public static void Permutacao(String p, String S) {
-        if(S.lenght() == 1)
+        if(S.length() == 1)
         {
-            System.out.println(p + S)
+            System.out.println(p + S);
         }
         else
         {

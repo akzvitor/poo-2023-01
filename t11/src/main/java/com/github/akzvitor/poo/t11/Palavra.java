@@ -4,5 +4,4 @@ import java.util.ArrayList;
 
 public class Palavra {
     private ArrayList<Letra> letras = new ArrayList<Letra>();
-    Arrays.sort(letras);
 }

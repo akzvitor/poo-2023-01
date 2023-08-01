@@ -1,4 +1,4 @@
 package com.github.akzvitor.poo.t09;
 
-public class Objeto extends Elemento{
+public class Objeto extends Elemento {
 }

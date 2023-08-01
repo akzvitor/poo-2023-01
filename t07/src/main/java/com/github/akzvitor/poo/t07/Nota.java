@@ -1,6 +1,6 @@
 package com.github.akzvitor.poo.t07;
 
-import java.util.objects;
+import java.util.Objects;
 
 public class Nota implements Comparable<Nota> {
     private double valor;

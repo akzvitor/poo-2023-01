@@ -9,7 +9,7 @@ public class Prova {
     public void setNumQuestoes(byte n) {
         if (n > 0)
         {
-            numQuestões = n;
+            numQuestoes = n;
         }
     }
 }

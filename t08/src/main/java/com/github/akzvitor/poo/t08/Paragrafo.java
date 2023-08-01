@@ -1,7 +1,5 @@
 package com.github.akzvitor.poo.t08;
 
-import java.util.TreeSet();
-
 public class Paragrafo {
     private TreeSet sentencas = new TreeSet();
 
