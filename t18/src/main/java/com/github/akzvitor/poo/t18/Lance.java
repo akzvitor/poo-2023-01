@@ -1,17 +1,11 @@
+package main.java.com.github.akzvitor.poo.t18;
+
 public class Lance {
-    private List<Lance> lances = new ArrayList<>();
-
-    public Partida(String nome) {
-
-    }
-
-    public addLance(Lance lance) {
-        if (lance = null) {
-            throw new IllegalArgumentException("exige lance");
-        }
-
-        lances.add(lance);
-    }
+    
+    private Peca peca;
+    private Jogador jogador;
+    private Posicao origem;
+    private Posicao destino;
 
     public Lance(Peca peca, Jogador jogador, Posicao origem, Posicao destino) {
         this.peca = peca;
@@ -21,12 +15,12 @@ public class Lance {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "Lance{" +
                 "peca=" + peca +
-                "jogador=" + jogador +
-                "origem=" + origem +
-                "destino=" + destino +
-                "}";
+                ", jogador=" + jogador +
+                ", origem=" + origem +
+                ", destino=" + destino +
+                '}';
     }
 }
